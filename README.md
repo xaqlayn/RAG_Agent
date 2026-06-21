@@ -45,8 +45,8 @@ chmod +x setup.sh
 ### 🐳 Option A: The Docker Way (Recommended)
 1.  **Clone the Repository:**
     ```bash
-    git clone [[https://github.com/xaqlayn/RAG-System-a-2-step-rag.git](https://github.com/xaqlayn/RAG-System-a-2-step-rag.git)](https://github.com/xaqlayn/RAG_Agent.git)
-    cd RAG-System-a-2-step-rag
+    git clone https://github.com/xaqlayn/RAG_Agent.git
+    cd RAG_Agent
     ```
 2.  **Launch the System:**
     ```bash
